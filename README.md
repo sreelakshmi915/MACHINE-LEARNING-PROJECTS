@@ -1,1 +1,1 @@
-# BOSCH-AI-HACKETHON
+Machine learning projects
